@@ -24,7 +24,10 @@ ExportedObj/
 
 # Unity3D Generated File On Crash Reports
 sysinfo.txt
+<<<<<<< HEAD
 
 # Builds
 *.apk
 *.unitypackage
+=======
+>>>>>>> 7891850b13b24165fa0459ce44b9197c2a001bd6
